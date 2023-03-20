@@ -1,0 +1,68 @@
+FOREST (Kyaw Soe Thant)
+---------------------------
+
+Responsive
+4 out of 10 
+(support laptop & table size but not mobile)
+
+Animation
+5 out of 10
+
+Compatibility with Porfolia Layout
+5 out of 10
+
+Creative Design
+5 out of 10
+
+Compatibility with themes
+3 out of 10
+
+TOTAL - 4.4
+
+GAME (Hein Thant Zaw)
+------------------------
+
+Responsive
+3 out of 10 
+
+Animation
+3 out of 10
+
+Compatibility with Porfolia Layout
+2 out of 10
+
+Creative Design
+6 out of 10
+
+Compatibility with themes
+7 out of 10
+
+TOTAL - 4.2
+
+
+ROBOT (Htet Thu)
+------------------
+
+Responsive
+8 out of 10 
+
+Animation
+4 out of 10
+
+Compatibility with Porfolia Layout
+6 out of 10
+
+Creative Design
+2 out of 10
+
+Compatibility with themes
+7 out of 10
+
+TOTAL - 5.4
+
+
+
+
+
+
+
