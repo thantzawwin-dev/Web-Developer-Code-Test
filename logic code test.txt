@@ -1,0 +1,28 @@
+LOGIC CODE TEST
+
+Develop Reusesable Method using UI (input and output using html)
+---------------------------------------------------------------------
+
+(1 marks per question)
+1- Write a function that takes two numbers as arguments and returns their sum.
+2- Write a function to find the length of a given string.
+3- Write a function that takes an array of numbers and returns the sum of all the numbers.
+4- Write a function to check if a given number is even or odd.
+
+(2 marks per question)
+1- Write a function to find the maximum and minimum values in an array.
+2- Write a function to find the intersection of two arrays.
+3- Write a function to remove all duplicates from an array.
+4- Write a function to reverse a given string.
+5- Write a function to convert thousand comma separator
+6- Write a function to calculate age marks 
+
+(4 marks per question)
+1- Write a function to reverse a string without using the built-in reverse() method.
+2- Write a function to check if a given string is a palindrome.
+3- Write a function to flatten a nested array.
+4- Write a function to remove all duplicates from an array.
+5- Write a function to find the maximum sum of a subarray in an array.
+6- Write a function to find the first non-repeating character in a string.
+7- Write a function to find the first missing positive integer in an array of integers.
+

@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>LOGIC CODE TEST</title>
+</head>
+<body>
+
+	<h1>LOGIC CODE TEST</h1>
+	<h2>Develop Reusesable Method using UI (input and output using html)</h2>
+
+	<h3>(1 marks per question)</h3>
+	<ol>
+		<li> Write a function that takes two numbers as arguments and returns their sum.
+		</li>
+		<li> Write a function to find the length of a given string.</li>
+		<li> Write a function that takes an array of numbers and returns the sum of all the numbers. <br />
+			Input: <input id="arr" placeholder="1,2,3,4,5" /> <button onclick="sumOfAllNumber()">run</button> <br />
+			Output: <span id="output3"> </span>
+		</li>
+		<li> Write a function to check if a given number is even or odd.</li>
+	</ol>
+
+	<h3>(2 marks per question)</h3>
+	<ol>
+		<li> Write a function to find the maximum and minimum values in an array.</li>
+		<li> Write a function to find the intersection of two arrays.</li>
+		<li> Write a function to remove all duplicates from an array.</li>
+		<li> Write a function to reverse a given string.</li>
+		<li> Write a function to convert thousand comma separator</li>
+		<li> Write a function to calculate age marks </li>
+	</ol>
+
+	<h3>(4 marks per question)</h3>
+	<ol>
+		<li> Write a function to reverse a string without using the built-in reverse() method.</li>
+		<li> Write a function to check if a given string is a palindrome. <br/>
+			<img src="./palindrome_numbers.PNG" alt="photo1" height="300px" />
+		</li>
+		<li> Write a function to flatten a nested array without flat() method.<br/>
+			<img src="./flatten_nested_array.PNG" alt="photo1" height="150px" /></li>
+		<li> Write a function to remove all duplicates from an array.</li>
+		<li> Write a function to find the maximum sum of a subarray in an array.</li>
+		<li> Write a function to find the first non-repeating character in a string.</li>
+		<li> Write a function to find the first missing positive integer in an array of integers. <br/>
+			<img src="./first_missing_positive.PNG" alt="photo2" height="100px" />
+		</li>
+	</ol>
+
+
+	<script>
+		// 1
+		function sumOfAllNumber() {
+			const arrElement = document.querySelector("#arr");
+			const outputElement = document.querySelector("#output3");
+			const arr = arrElement.value.split(',');
+			const result = arr.reduce((acc, cur) => Number(acc)+Number(cur));
+			outputElement.innerHTML = result;
+		}
+	</script>
+</body>
+</html>
