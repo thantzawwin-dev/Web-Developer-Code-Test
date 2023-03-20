@@ -11,15 +11,16 @@ for 2 marks
 2. 2
 3. 2
 4. 2
-5. 0
+5. 0 (No Answer)
 6. 2
 
 for 4 marks
-1. 0
+1. 1 (I mean without using build-in reverse method)
 2. 0
-3. 0
+3. 0 (Empty Result)
 4. 4
 5. 0 
 6. 3 (expect result is value, not index)
 7. 0
 
+Total - 22 marks
